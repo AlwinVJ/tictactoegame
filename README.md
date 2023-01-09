@@ -1,6 +1,6 @@
 # ttt_game
 
-A new Flutter project.
+Tic tac toe game project with winner alert box with play again and reset buttons.
 
 ## Getting Started
 
